@@ -14,6 +14,22 @@ A simple web application built using Streamlit that predicts the number of episo
 - **scikit-learn**: For machine learning and model training.
 - **pickle**: For serializing and loading the pre-trained model.
 
+# Anime Episodes Predictor
+
+This project predicts the number of episodes in an anime series based on historical data using machine learning.
+
+## Dependencies
+- scikit-learn
+- streamlit
+- pandas
+- numpy
+
+## How to Run
+
+1. Install dependencies:
+```bash
+pip install -r requirements.txt
+
 ## Prerequisites
 
 To run this application, you'll need to have the following installed:
